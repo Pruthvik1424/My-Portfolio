@@ -61,7 +61,7 @@ const Hero = () => {
                             animate="visible"
                             href="/assets/Pruthvik_resume.pdf"
                             download
-                            className="rounded-full flex justify-center items-center gap-2 text-center border p-3 w-full  mb-10 hover:bg-slate-50 hover:text-black transition"
+                            className="rounded-full flex justify-center items-center gap-2 text-center border p-3 w-full  mb-10 hover:bg-slate-50 hover:text-black transition hover:shadow-[0_0_10px_white] duration-300 "
                         >
                             Get My Resume
                             <FaDownload />
