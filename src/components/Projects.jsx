@@ -42,7 +42,7 @@ const Projects = () => {
 
                             <div className="flex gap-4 w-full">
                                 <a
-                                    href="https://yourwebsite.com" 
+                                    href="https://pruthvik-portfolio-1424.web.app/" 
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center justify-center gap-3 p-1 w-2/5 border mt-10 rounded-full hover:bg-slate-50 hover:text-black transition hover:shadow-[0_0_10px_white] duration-300"
