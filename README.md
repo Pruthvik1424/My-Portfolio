@@ -1,4 +1,25 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+# Portfolio Website
+
+This is my personal portfolio website designed to showcase my skills, projects, and professional experience. It includes links to my work, a resume section, and ways to connect with me.
+
+## 🚀 Built With
+- HTML5
+- CSS3 / Tailwind / Bootstrap (choose what applies)
+- JavaScript
+- React js
+- Framer Motion
+
+## 🌐 Live Preview
+[Visit my portfolio](https://yourwebsite.com)
+
+## 📫 Contact
+Feel free to reach out to me via [email@example.com](mailto:email@example.com) or through the contact form on the site.
+
+
+>>>>>>> c44a7d7710856a8ad4357d665703d1787da1bd17
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
